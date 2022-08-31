@@ -10,6 +10,6 @@ class Person:
      
 jorge = Person()
 jorge.name = 'Jorge'
-jorge.school = 'Universidad de la vida'
+jorge.school = 'Santa Maria'
 jorge.print_name()
 jorge.print_school()
